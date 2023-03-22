@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varlık-Zimmet-Depo Yönetimi.Varlık-Zimmet-Depo YönetimiUI", "Varlık-Zimmet-Depo Yönetimi.Varlık-Zimmet-Depo YönetimiUI\Varlık-Zimmet-Depo Yönetimi.Varlık-Zimmet-Depo YönetimiUI.csproj", "{D73C5D51-3D41-4A9A-AC0F-32E9A057D3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varlık-Zimmet-Depo Yönetimi.MyProvider", "Varlık-Zimmet-Depo Yönetimi.MyProvider\Varlık-Zimmet-Depo Yönetimi.MyProvider.csproj", "{70D40BC9-5DBF-4410-A972-0958C28E548F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varlık-Zimmet-Depo Yönetimi.DTO", "Varlık-Zimmet-Depo Yönetimi.DTO\Varlık-Zimmet-Depo Yönetimi.DTO.csproj", "{F724BE6D-51C8-4EBE-A39E-323AF8B9E13E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73C5D51-3D41-4A9A-AC0F-32E9A057D3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73C5D51-3D41-4A9A-AC0F-32E9A057D3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73C5D51-3D41-4A9A-AC0F-32E9A057D3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73C5D51-3D41-4A9A-AC0F-32E9A057D3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D40BC9-5DBF-4410-A972-0958C28E548F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D40BC9-5DBF-4410-A972-0958C28E548F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D40BC9-5DBF-4410-A972-0958C28E548F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D40BC9-5DBF-4410-A972-0958C28E548F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F724BE6D-51C8-4EBE-A39E-323AF8B9E13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F724BE6D-51C8-4EBE-A39E-323AF8B9E13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F724BE6D-51C8-4EBE-A39E-323AF8B9E13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F724BE6D-51C8-4EBE-A39E-323AF8B9E13E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF91C002-37B5-4476-B6BB-A9E0D2213B6F}
+	EndGlobalSection
+EndGlobal
